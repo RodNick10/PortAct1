@@ -1,0 +1,215 @@
+header {
+  background-color: white;
+  font-family: "Georgia", Times, "Times New Roman", serif;
+  border-style: solid;
+  border-width: medium;
+  border-color: #cccccc;
+  position: ;
+  height: 98px;
+}
+h1 {
+  color: white;
+  padding: 0px 20px;
+}
+ul {
+  list-style: none;
+  overflow: hidden;
+  color: #cccccc;
+}
+li {
+  float: left;
+  padding: 5px;
+}
+.name {
+  background-color: #4aaaa5;
+  height: ;
+  width: ;
+  right: ;
+  padding: 10px;
+  float: left;
+  margin-left: 298px;
+  top: 10px;
+}
+.links {
+  height: ;
+  width: ;
+  list-style: inside;
+  margin-left: 756px;
+  margin-top: 37px;
+}
+body {
+  background-color: #f5f3f3;
+  border-bottom: 4px #4aaaa5 solid;
+}
+
+.aboutme {
+  border-style: solid;
+  border-width: medium;
+  border-color: #cccccc;
+  padding: 1px 30px 30px 35px;
+  width: 700px;
+  height: 350px;
+  background-color: white;
+  position: relative;
+  left: 300px;
+  top: 20px;
+  text-align: left;
+  color: #777777;
+}
+
+.Portifolio {
+  width: 750px;
+  height: 400px;
+  margin-left: 300px;
+  margin-top: 10px;
+  padding: 10px;
+  border-width: medium;
+  border-color: #cccccc;
+  color: #777777;
+  background-color: white;
+  position: relative;
+}
+
+.image {
+  position: relative;
+  width: 100%; /* for IE 6 */
+}
+
+h2 span {
+  position: absolute;
+  top: 225px;
+  left: 10px;
+  width: 180px;
+  color: white;
+  font: bold 20px/25px Helvetica, Sans-Serif;
+  letter-spacing: -1px;
+  background: rgb(0, 0, 0); /* fallback color */
+  background: #4aaaa5;
+  padding: 10px;
+}
+.sport {
+  position: relative;
+}
+
+h2 {
+  color: #4aaaa5;
+}
+
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+  color: #cccccc;
+}
+
+input[type="text"],
+select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-box;
+  border: 1px solid #4aaaa5;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type="submit"] {
+  width: 100%;
+  background-color: #4aaaa5;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #777777;
+}
+
+footer {
+  background-color: #666666;
+  height: 50px;
+  width: ;
+  border-style: solid;
+  border-width: medium;
+  border-color: #cccccc;
+  position: relative;
+  top: 60px;
+  color: white;
+}
+.Contact {
+  width: 750px;
+  height: 425px;
+  margin-left: 300px;
+  margin-top: 10px;
+  padding: 10px;
+  border-width: medium;
+  border-color: #cccccc;
+  color: #777777;
+  background-color: white;
+  position: relative;
+}
+
+#msg {
+  padding: 45px 20px;
+}
+
+.mypict {
+  padding: 5px;
+}
+
+.background-image-1 {
+  background-image: url("../images/Ativa\ Info\ Health.png");
+}
+.background-image-2 {
+  background-image: url("file:///C:/Users/rodri/OneDrive/Desktop/UCSD-CODING/PortAct1/assets/images/SDSHARP.png");
+}
+.background-image-3 {
+  background-image: url("file:///C:/Users/rodri/OneDrive/Desktop/UCSD-CODING/PortAct1/assets/images/healthsoft.png");
+}
+.background-image-4 {
+  background-image: url("file:///C:/Users/rodri/OneDrive/Desktop/UCSD-CODING/PortAct1/assets/images/wil.png");
+}
+
+.img-container {
+  display: flex;
+}
+.background {
+  height: 200px;
+  width: 200px;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  padding: 0 0 10px 0;
+  margin-right: 10px;
+}
+
+.background div {
+  background-color: #4aaaa5;
+  width: 100%;
+  text-align: center;
+  color: white;
+
+  height: 24px;
+  padding: 7px 16px 1px 22px;
+  font-size: 15px;
+  font-family: arial;
+}
+a {
+  color: #cccccc;
+}
+.fp {
+  color: white;
+  margin: 0;
+  font-size: 8px;
+  margin-left: 652px;
+  padding: 5px;
+}
